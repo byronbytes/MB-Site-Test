@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #1acc8d;
+  color: #ccc91a;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #1acc8d;
+  border: 6px solid #ccba1a;
   border-top-color: #d2f9eb;
   border-radius: 50%;
   width: 60px;
@@ -120,7 +120,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgba(1, 4, 136, 0.9);
+  background: rgba(136, 104, 1, 0.9);
 }
 
 #header.header-transparent {
@@ -128,7 +128,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: rgba(94, 84, 0, 0.9);
   height: 60px;
 }
 
