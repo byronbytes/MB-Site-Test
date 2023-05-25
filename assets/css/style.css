@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #34e5a6;
+  color: #34d9e5;
   text-decoration: none;
 }
 
@@ -53,7 +53,7 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #ccba1a;
-  border-top-color: #d2f9eb;
+  border-top-color: #d2eef9;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -94,7 +94,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2be4a2;
+  background: #e4b92b;
   color: #fff;
 }
 
