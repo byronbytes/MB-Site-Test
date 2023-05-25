@@ -247,7 +247,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #7c7000;
+  color: #d1bc00;
 }
 
 .navbar .dropdown ul a i {
@@ -257,7 +257,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #1acc8d;
+  color: #1a26cc;
 }
 
 .navbar .dropdown:hover>ul {
@@ -419,7 +419,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(161, 124, 2, 0.91);
+  background: rgba(255, 219, 103, 0.91);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -456,11 +456,11 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #1acc8d;
+  background: #0e1099;
 }
 
 #hero .btn-get-started:hover {
-  background: #17b57d;
+  background: #17b0b5;
 }
 
 #hero .animated {
@@ -606,7 +606,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #1acc8d;
+  background: #0c39ce;
   margin: 4px 10px;
 }
 
@@ -617,7 +617,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #830101;
+  color: #020068;
 }
 
 /*--------------------------------------------------------------
@@ -692,7 +692,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #830101;
+  color: #011983;
   margin-bottom: 15px;
 }
 
@@ -713,13 +713,13 @@ section {
 }
 
 .about .icon-box .icon i {
-  color: #1acc8d;
+  color: #1a94cc;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #1acc8d;
-  border-color: #1acc8d;
+  background: #1a43cc;
+  border-color: #c9cc1a;
 }
 
 .about .icon-box:hover .icon i {
@@ -739,7 +739,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #1acc8d;
+  color: #02007c;
 }
 
 .about .icon-box .description {
@@ -859,16 +859,16 @@ section {
 }
 
 .features .icon-box h3 a {
-  color: #010483;
+  color: #0f12ce;
   transition: ease-in-out 0.3s;
 }
 
 .features .icon-box h3 a:hover {
-  color: #01036f;
+  color: #00014d;
 }
 
 .features .icon-box:hover {
-  background: #ebebff;
+  background: #dadaff;
 }
 
 /*--------------------------------------------------------------
@@ -1183,7 +1183,7 @@ section {
 
 .pricing h4 {
   font-size: 36px;
-  color: #1acc8d;
+  color: #1a1dcc;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
@@ -1233,7 +1233,7 @@ section {
 }
 
 .pricing .btn-buy {
-  background: #1acc8d;
+  background: #b49900;
   display: inline-block;
   padding: 8px 35px 10px 35px;
   border-radius: 50px;
@@ -1247,12 +1247,12 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #149f6e;
+  background: #886800;
 }
 
 .pricing .featured h3 {
   color: #fff;
-  background: #1acc8d;
+  background: #4b22ff;
 }
 
 .pricing .advanced {
